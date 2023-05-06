@@ -1,2 +1,2 @@
 # JavaPrograms
-Fundamentals of Java Programing language
+Fundamentals of Java Programming language
